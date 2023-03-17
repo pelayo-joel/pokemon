@@ -1,0 +1,673 @@
+{
+    "Absorb":{
+        "Type":"Grass",
+        "Category": "Special",
+        "Power":20,
+        "Accuracy":1.0,
+        "PP":20,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Acid":{
+        "Type":"Poison",
+        "Category": "Special",
+        "Power":40,
+        "Accuracy":1.0,
+        "PP":30,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Acid Armor":{
+        "Type":"Poison",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":40,
+        "Target":"User",
+        "Effects":{
+            
+        }
+    },
+    "Aerial Ace":{
+        "Type":"Flying",
+        "Category": "Physical",
+        "Power":60,
+        "Accuracy":1.0,
+        "PP":20,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Aeroblast":{
+        "Type":"Flying",
+        "Category": "Special",
+        "Power":100,
+        "Accuracy":0.95,
+        "PP":5,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Agility":{
+        "Type":"Psychic",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":30,
+        "Target":"User",
+        "Effects":{
+            
+        }
+    },
+    "Air Cutter":{
+        "Type":"Flying",
+        "Category": "Special",
+        "Power":55,
+        "Accuracy":0.95,
+        "PP":25,
+        "Target":"All Opponents",
+        "Effects":{
+            
+        }
+    },
+    "Amnesia":{
+        "Type":"Psychic",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":20,
+        "Target":"User",
+        "Effects":{
+            
+        }
+    },
+    "Ancient Power":{
+        "Type":"Rock",
+        "Category": "Special",
+        "Power":60,
+        "Accuracy":1.0,
+        "PP":5,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Arm Thrust":{
+        "Type":"Fighting",
+        "Category": "Physical",
+        "Power":15,
+        "Accuracy":1.0,
+        "PP":20,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Aromatherapy":{
+        "Type":"Grass",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":5,
+        "Target":"All Allies",
+        "Effects":{
+            
+        }
+    },
+    "Assist":{
+        "Type":"Normal",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":20,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Astonish":{
+        "Type":"Ghost",
+        "Category": "Physical",
+        "Power":30,
+        "Accuracy":1.0,
+        "PP":15,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Attract":{
+        "Type":"Normal",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":1.0,
+        "PP":15,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Aurora Beam":{
+        "Type":"Ice",
+        "Category": "Special",
+        "Power":65,
+        "Accuracy":1.0,
+        "PP":20,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Barrage":{
+        "Type":"Normal",
+        "Category": "Physical",
+        "Power":15,
+        "Accuracy":0.85,
+        "PP":20,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Barrier":{
+        "Type":"Psychic",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":30,
+        "Target":"User",
+        "Effects":{
+            
+        }
+    },
+    "Baton Pass":{
+        "Type":"Normal",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":40,
+        "Target":"User",
+        "Effects":{
+            
+        }
+    },
+    "Beat Up":{
+        "Type":"Dark",
+        "Category": "Physical",
+        "Power":10,
+        "Accuracy":1.0,
+        "PP":10,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Belly Drum":{
+        "Type":"Normal",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":10,
+        "Target":"User",
+        "Effects":{
+            
+        }
+    },
+    "Bide":{
+        "Type":"Normal",
+        "Category": "Physical",
+        "Power":null,
+        "Accuracy":1.0,
+        "PP":20,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Bind":{
+        "Type":"Normal",
+        "Category": "Physical",
+        "Power":15,
+        "Accuracy":0.75,
+        "PP":20,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Bite":{
+        "Type":"Dark",
+        "Category": "Physical",
+        "Power":60,
+        "Accuracy":1.0,
+        "PP":25,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Blast Burn":{
+        "Type":"Fire",
+        "Category": "Special",
+        "Power":150,
+        "Accuracy":0.9,
+        "PP":5,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Blaze Kick":{
+        "Type":"Fire",
+        "Category": "Physical",
+        "Power":85,
+        "Accuracy":0.9,
+        "PP":10,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Blizzard":{
+        "Type":"Ice",
+        "Category": "Special",
+        "Power":120,
+        "Accuracy":0.7,
+        "PP":5,
+        "Target":"All Opponents",
+        "Effects":{
+            
+        }
+    },
+    "Block":{
+        "Type":"Normal",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":5,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Body Slam":{
+        "Type":"Normal",
+        "Category": "Physical",
+        "Power":85,
+        "Accuracy":1.0,
+        "PP":15,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Bone Club":{
+        "Type":"Ground",
+        "Category": "Physical",
+        "Power":65,
+        "Accuracy":0.85,
+        "PP":20,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Bone Rush":{
+        "Type":"Ground",
+        "Category": "Physical",
+        "Power":25,
+        "Accuracy":0.8,
+        "PP":10,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Bonemerang":{
+        "Type":"Groundd",
+        "Category": "Physical",
+        "Power":50,
+        "Accuracy":0.9,
+        "PP":10,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Bounce":{
+        "Type":"Flying",
+        "Category": "Physical",
+        "Power":85,
+        "Accuracy":0.85,
+        "PP":5,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Brick Break":{
+        "Type":"Fighting",
+        "Category": "Physical",
+        "Power":75,
+        "Accuracy":1.0,
+        "PP":15,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Bubble":{
+        "Type":"Water",
+        "Category": "Special",
+        "Power":20,
+        "Accuracy":1.0,
+        "PP":30,
+        "Target":"All Opponents",
+        "Effects":{
+            
+        }
+    },
+    "Bubble Beam":{
+        "Type":"Water",
+        "Category": "Special",
+        "Power":65,
+        "Accuracy":1.0,
+        "PP":20,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Bulk Up":{
+        "Type":"Fighting",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":20,
+        "Target":"User",
+        "Effects":{
+            
+        }
+    },
+    "Bullet Seed":{
+        "Type":"Grass",
+        "Category": "Physical",
+        "Power":10,
+        "Accuracy":1.0,
+        "PP":30,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Calm Mind":{
+        "Type":"Psychic",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":20,
+        "Target":"User",
+        "Effects":{
+            
+        }
+    },
+    "Camouflage":{
+        "Type":"Normal",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":20,
+        "Target":"User",
+        "Effects":{
+            
+        }
+    },
+    "Charge":{
+        "Type":"Electric",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":20,
+        "Target":"User",
+        "Effects":{
+            
+        }
+    },
+    "Charm":{
+        "Type":"Normal",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":1.0,
+        "PP":20,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Clamp":{
+        "Type":"Water",
+        "Category": "Physical",
+        "Power":35,
+        "Accuracy":0.75,
+        "PP":10,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Comet Punch":{
+        "Type":"Normal",
+        "Category": "Physical",
+        "Power":18,
+        "Accuracy":0.85,
+        "PP":15,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Confuse Ray":{
+        "Type":"Ghost",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":1.0,
+        "PP":10,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Confusion":{
+        "Type":"Psychic",
+        "Category": "Special",
+        "Power":50,
+        "Accuracy":1.0,
+        "PP":25,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Constrict":{
+        "Type":"Normal",
+        "Category": "Physical",
+        "Power":10,
+        "Accuracy":1.0,
+        "PP":35,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Conversion":{
+        "Type":"Normal",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":30,
+        "Target":"User",
+        "Effects":{
+            
+        }
+    },
+    "Conversion 2":{
+        "Type":"Normal",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":1.0,
+        "PP":30,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Cosmic Power":{
+        "Type":"Psychic",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":20,
+        "Target":"User",
+        "Effects":{
+            
+        }
+    },
+    "Cotton Spore":{
+        "Type":"Grass",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":0.85,
+        "PP":40,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Counter":{
+        "Type":"Fighting",
+        "Category": "Physical",
+        "Power":null,
+        "Accuracy":1.0,
+        "PP":20,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Covet":{
+        "Type":"Normal",
+        "Category": "Physical",
+        "Power":40,
+        "Accuracy":1.0,
+        "PP":40,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Crab Hammer":{
+        "Type":"Water",
+        "Category": "Physical",
+        "Power":90,
+        "Accuracy":0.85,
+        "PP":10,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Cross Chop":{
+        "Type":"Fighting",
+        "Category": "Physical",
+        "Power":100,
+        "Accuracy":0.8,
+        "PP":5,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Crunch":{
+        "Type":"Dark",
+        "Category": "Physical",
+        "Power":80,
+        "Accuracy":1.0,
+        "PP":15,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Crush Claw":{
+        "Type":"Normal",
+        "Category": "Physical",
+        "Power":75,
+        "Accuracy":0.95,
+        "PP":10,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Cut":{
+        "Type":"Normal",
+        "Category": "Physical",
+        "Power":50,
+        "Accuracy":0.95,
+        "PP":30,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Defense Curl":{
+        "Type":"Normal",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":40,
+        "Target":"User",
+        "Effects":{
+            
+        }
+    },
+    "Destiny Bond":{
+        "Type":"Ghost",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":0.85,
+        "PP":5,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    },
+    "Detect":{
+        "Type":"Fighting",
+        "Category": "Other",
+        "Power":null,
+        "Accuracy":null,
+        "PP":5,
+        "Target":"User",
+        "Effects":{
+            
+        }
+    },
+    "Dig":{
+        "Type":"Ground",
+        "Category": "Physical",
+        "Power":60,
+        "Accuracy":1.0,
+        "PP":10,
+        "Target":"Opponent",
+        "Effects":{
+            
+        }
+    }
+}

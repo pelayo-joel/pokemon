@@ -1,0 +1,87 @@
+{
+    "NORMAL":{
+        "EFFECTIVE":[],
+        "RESISTANT":["Rock", "Steel"],
+        "NULL":["Ghost"]
+    },
+    "FIRE":{
+        "EFFECTIVE":["Grass", "Ice", "Bug", "Steel"],
+        "RESISTANT":["Fire", "Water", "Rock", "Dragon"],
+        "NULL":[]
+    },
+    "WATER":{
+        "EFFECTIVE":["Fire", "Ground", "Rock"],
+        "RESISTANT":["Water", "Grass", "Dragon"],
+        "NULL":[]
+    },
+    "ELECTRIC":{
+        "EFFECTIVE":["Water", "Flying"],
+        "RESISTANT":["Electric", "Grass", "Dragon"],
+        "NULL":["Ground"]
+    },
+    "GRASS":{
+        "EFFECTIVE":["Water", "Ground", "Rock"],
+        "RESISTANT":["Fire", "Grass", "Poison", "Flying", "Bug", "Dragon", "Steel"],
+        "NULL":[]
+    },
+    "ICE":{
+        "EFFECTIVE":["Grass", "Ground", "Flying", "Dragon"],
+        "RESISTANT":["Fire", "Water", "Ice", "Steel"],
+        "NULL":[]
+    },
+    "FIGHTING":{
+        "EFFECTIVE":["Normal", "Ice", "Rock", "Dark", "Steel"],
+        "RESISTANT":["Poison", "Flying", "Psychic", "Bug"],
+        "NULL":["Ghost"]
+    },
+    "POISON":{
+        "EFFECTIVE":["Grass"],
+        "RESISTANT":["Poison", "Ground", "Rock", "Ghost"],
+        "NULL":["Steel"]
+    },
+    "GROUND":{
+        "EFFECTIVE":["Fire", "Electric", "Poison", "Rock", "Steel"],
+        "RESISTANT":["Grass", "Bug"],
+        "NULL":["Flying"]
+    },
+    "FLYING":{
+        "EFFECTIVE":["Grass", "Fighting", "Bug"],
+        "RESISTANT":["Electric", "Rock", "Steel"],
+        "NULL":[]
+    },
+    "PSYCHIC":{
+        "EFFECTIVE":["Fighting", "Poison"],
+        "RESISTANT":["Psychic", "Steel"],
+        "NULL":["Dark"]
+    },
+    "BUG":{
+        "EFFECTIVE":["Grass", "Psychic", "Dark"],
+        "RESISTANT":["Fire", "Fighting", "Flying", "Ghost", "Steel"],
+        "NULL":[]
+    },
+    "ROCK":{
+        "EFFECTIVE":["Fire", "Ice", "Flying", "Bug"],
+        "RESISTANT":["Fighting", "Ground", "Steel"],
+        "NULL":[]
+    },
+    "GHOST":{
+        "EFFECTIVE":["Psychic", "Ghost"],
+        "RESISTANT":["Dark", "Steel"],
+        "NULL":["Normal"]
+    },
+    "DRAGON":{
+        "EFFECTIVE":["Dragon"],
+        "RESISTANT":["Steel"],
+        "NULL":[]
+    },
+    "DARK":{
+        "EFFECTIVE":["Psychic", "Ghost"],
+        "RESISTANT":["Fighting", "Dark", "Steel"],
+        "NULL":[]
+    },
+    "STEEL":{
+        "EFFECTIVE":["Ice", "Rock"],
+        "RESISTANT":["Fire", "Water", "Electric", "Steel"],
+        "NULL":[]
+    }
+}

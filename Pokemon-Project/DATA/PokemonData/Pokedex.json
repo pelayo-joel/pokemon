@@ -1,0 +1,91 @@
+{
+    "Squirtle":{
+        "Types":["WATER"],
+        "Lvl":1,
+        "Stats":{
+            "HP":44,
+            "Atk":48,
+            "SpeAtk":50,
+            "Def":65,
+            "SpeDef":64,
+            "Spd":43
+        },
+        "Moves":[],
+        "Sprites":{}
+    },
+
+    "Charmander":{
+        "Types":["FIRE"],
+        "Lvl":1,
+        "Stats":{
+            "HP":39,
+            "Atk":52,
+            "SpeAtk":60,
+            "Def":43,
+            "SpeDef":50,
+            "Spd":65
+        },
+        "Moves":[],
+        "Sprites":{}
+    },
+    
+    "Bulbasaur":{
+        "Types":["GRASS", "POISON"],
+        "Lvl":1,
+        "Stats":{
+            "HP":45,
+            "Atk":49,
+            "SpeAtk":65,
+            "Def":49,
+            "SpeDef":65,
+            "Spd":45
+        },
+        "Moves":[],
+        "Sprites":{}
+    },
+
+    "Treecko":{
+        "Types":["GRASS"],
+        "Lvl":1,
+        "Stats":{
+            "HP":40,
+            "Atk":45,
+            "SpeAtk":65,
+            "Def":35,
+            "SpeDef":55,
+            "Spd":70
+        },
+        "Moves":["Overgrow"],
+        "Sprites":{}
+    },
+
+    "Torchic":{
+        "Types":["FIRE"],
+        "Lvl":1,
+        "Stats":{
+            "HP":45,
+            "Atk":60,
+            "SpeAtk":70,
+            "Def":40,
+            "SpeDef":50,
+            "Spd":45
+        },
+        "Moves":["Blaze"],
+        "Sprites":{}
+    },
+
+    "Mudkip":{
+        "Types":["WATER"],
+        "Lvl":1,
+        "Stats":{
+            "HP":50,
+            "Atk":70,
+            "SpeAtk":50,
+            "Def":50,
+            "SpeDef":50,
+            "Spd":40
+        },
+        "Moves":["Torrent"],
+        "Sprites":{}
+    }
+}

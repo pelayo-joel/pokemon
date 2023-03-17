@@ -1,0 +1,194 @@
+{
+  "Alone":
+    {
+    "Attack": 1.1,
+    "Defense": 0.9,
+    "Sp. Attack": 1,
+    "Sp. Defense": 1,
+    "Speed": 1
+  },
+  "Brave":
+    {
+    "Attack": 1.1,
+    "Defense": 1,
+    "Sp. Attack": 1,
+    "Sp. Defense": 1,
+    "Speed": 0.9
+  },
+  "Rigid":
+    {
+    "Attack": 1.1,
+    "Defense": 1,
+    "Sp. Attack": 0.9,
+    "Sp. Defense": 1,
+    "Speed": 1
+  },
+  "Bad":
+    {
+    "Attack": 1.1,
+    "Defense": 1,
+    "Sp. Attack": 1,
+    "Sp. Defense": 0.9,
+    "Speed": 1
+  },
+  "Insured":
+    {
+    "Attack": 0.9,
+    "Defense": 1.1,
+    "Sp. Attack": 1,
+    "Sp. Defense": 1,
+    "Speed": 1
+  },
+  "Relaxed":
+    {
+    "Attack": 1,
+    "Defense": 1.1,
+    "Sp. Attack": 1,
+    "Sp. Defense": 1,
+    "Speed": 0.9
+  },
+  "Clever":
+    {
+    "Attack": 1,
+    "Defense": 1.1,
+    "Sp. Attack": 0.9,
+    "Sp. Defense": 1,
+    "Speed": 1
+  },
+  "Cowardly":
+    {
+    "Attack": 1,
+    "Defense": 1.1,
+    "Sp. Attack": 1,
+    "Sp. Defense": 0.9,
+    "Speed": 1
+  },
+  "Shy":
+    {
+    "Attack": 0.9,
+    "Defense": 1,
+    "Sp. Attack": 1,
+    "Sp. Defense": 1.1,
+    "Speed": 1
+  },
+  "Pressed":
+    {
+    "Attack": 1,
+    "Defense": 0.9,
+    "Sp. Attack": 1,
+    "Sp. Defense": 1.1,
+    "Speed": 1
+  },
+  "Joyous":
+    {
+    "Attack": 1,
+    "Defense": 1,
+    "Sp. Attack": 0.9,
+    "Sp. Defense": 1.1,
+    "Speed": 1
+  },
+  "Naive":
+    {
+    "Attack": 1,
+    "Defense": 0.9,
+    "Sp. Attack": 1,
+    "Sp. Defense": 1.1,
+    "Speed": 1
+  },
+  "Modest":
+    {
+    "Attack": 0.9,
+    "Defense": 1,
+    "Sp. Attack": 1.1,
+    "Sp. Defense": 1,
+    "Speed": 1
+  },
+  "Soft":
+    {
+    "Attack": 1,
+    "Defense": 0.9,
+    "Sp. Attack": 1.1,
+    "Sp. Defense": 1,
+    "Speed": 1
+  },
+  "Discreet":
+    {
+    "Attack": 1,
+    "Defense": 1,
+    "Sp. Attack": 1.1,
+    "Sp. Defense": 1,
+    "Speed": 0.9
+  },
+  "Crazy":
+    {
+    "Attack": 1,
+    "Defense": 1,
+    "Sp. Attack": 1.1,
+    "Sp. Defense": 0.9,
+    "Speed": 1
+  },
+  "Calm": {
+    "Attack": 0.9,
+    "Defense": 1,
+    "Sp. Attack": 1,
+    "Sp. Defense": 1.1,
+    "Speed": 1
+  },
+  "Kind": {
+    "Attack": 1,
+    "Defense": 0.9,
+    "Sp. Attack": 1,
+    "Sp. Defense": 1.1,
+    "Speed": 1
+  },
+  "Malpoli": {
+    "Attack": 1,
+    "Defense": 1,
+    "Sp. Attack": 1,
+    "Sp. Defense": 1.1,
+    "Speed": 0.9
+  },
+  "Prudent": {
+    "Attack": 1,
+    "Defense": 1,
+    "Sp. Attack": 0.9,
+    "Sp. Defense": 1.1,
+    "Speed": 1
+  },
+  "Weird": {
+    "Attack": 1,
+    "Defense": 1,
+    "Sp. Attack": 1,
+    "Sp. Defense": 1,
+    "Speed": 1
+  },
+  "Obedient": {
+    "Attack": 1,
+    "Defense": 1,
+    "Sp. Attack": 1,
+    "Sp. Defense": 1,
+    "Speed": 1
+  },
+  "Daring": {
+    "Attack": 1,
+    "Defense": 1,
+    "Sp. Attack": 1,
+    "Sp. Defense": 1,
+    "Speed": 1
+  },
+
+  "Pudic": {
+    "Attack": 1,
+    "Defense": 1,
+    "Sp. Attack": 1,
+    "Sp. Defense": 1,
+    "Speed": 1
+  },
+  "Serious": {
+    "Attack": 1,
+    "Defense": 1,
+    "Sp. Attack": 1,
+    "Sp. Defense": 1,
+    "Speed": 1
+  }
+}
