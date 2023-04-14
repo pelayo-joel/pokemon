@@ -115,10 +115,10 @@ UI_SFX = {}
 for sound in os.listdir(SFX_PATH / "UI"):
     UI_SFX.update({sound[:-4].upper():pygame.mixer.Sound(SFX_PATH / f"UI/{sound}")})
 
-MOVES_SFX = {}
+'''MOVES_SFX = {}
 
 for sound in os.listdir(SFX_PATH / "Moves"):
-    MOVES_SFX.update({sound[:-4].upper():pygame.mixer.Sound(SFX_PATH / f"Moves/{sound}")})
+    MOVES_SFX.update({sound[:-4].upper():pygame.mixer.Sound(SFX_PATH / f"Moves/{sound}")})'''
 
 '''Loading all pokemons cries in a dictionnary would be a waste considering the sheer number of sounds that there would be to load,
     on top of that, the files name (being IDs) makes it even more convenient to just use a function'''
